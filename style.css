@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(129, 180, 163);
+    color: aliceblue;
+    text-align: center;
+    font-size: 34px;
+}
+nav{
+    text-align: center;
+}
+h1{
+    font: 32px;
+}
+p{
+    font-size: 30px;
+}
+div img{
+border: white;
+border-radius: 16px;
+}
+small{
+    font-size: 20px;
+}
+a:hover{
+    background-color: rgb(141, 104, 175);
+}
